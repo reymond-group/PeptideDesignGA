@@ -1,0 +1,2 @@
+java -cp 2dpguassfp-master.jar bin.write_topoguassfp2 -i t.smi -o t.out -scaleFactors 0.5_1_0.5_1_1_1_1
+t.smi : smi id a a a 
