@@ -1,3 +1,5 @@
+A new version of PDGA that uses MAP4 and the RDKit fingerprints is available at https://github.com/reymond-group/PDGA-MAP4_AP
+
 # Peptide Design Genetic Algorithm (PDGA)
 run `python run_PDGA.py population-size mutation-rate generation-gap query similarity-threshold topology`
 
